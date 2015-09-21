@@ -1,0 +1,100 @@
+nav .nav-wrapper i
+{
+	display: inline-block;
+	color: black;
+	position: relative;
+	top: 5px;
+}
+nav .nav-wrapper a
+{
+	margin-left: 5px;
+}
+span
+{
+	display: inline-block;
+}
+nav
+{
+	background-color: #00ABE8;
+}
+html
+{
+	background-color: #EDEDEA;
+}
+div.container
+{
+	background-color: white;
+	padding: 30px;
+}
+.btn
+{
+	background-color: #F1002A;
+}
+.btn:hover
+{
+	background-color: #9C2D1C;
+}
+div.error p
+{
+	font-size: 0.8em;
+	color: red;
+}
+h4.ship
+{
+	margin-bottom: 75px;
+}
+table
+{
+	margin-bottom: 30px;
+}
+#addressmatch
+{
+	margin-bottom: 25px;
+}
+img.logo
+{
+	margin-left: 10px;
+	margin-top: 6px;
+	height: 50px;
+	vertical-align: center;
+}
+button.stripe-button-el
+{
+	float: right !important;
+	margin-right: 10px;
+}
+div.input-field select
+{
+	display: block;
+}
+img.checkout
+{
+	height: 40px;
+	vertical-align: middle;
+}
+p.center
+{
+	display: inline-block;
+	margin-left: 10px;
+}
+h2.border
+{
+	border-top: 1px solid silver;
+	margin-top: 50px;
+	padding-top: 20px;
+}
+img.small{
+	height: 15px;
+	cursor: pointer;
+}
+img.add
+{
+	margin-left: 15px;
+}
+h3
+{
+	color: #F1002A;
+}
+.pagination li.active {
+    background-color: #00abe8;
+}
